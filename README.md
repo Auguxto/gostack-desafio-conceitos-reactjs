@@ -1,5 +1,5 @@
-# GoStack Desafio conceitos ReactJS
+# Desafio GoStack conceitos ReactJS
 
 ![](https://i.imgur.com/KRKx8lj.png)
 
-Todos testes passados
+Todos os testes passados
